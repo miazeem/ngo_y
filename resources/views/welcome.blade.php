@@ -51,7 +51,7 @@
     </section>
 
     <section>
-        <div class="max-w-7xl mx-auto py-16 px-4 -mt-32 bg-gray-300 rounded-t-4xl">
+        <div class="max-w-5xl mx-auto py-10 px-4 -mt-20 bg-gray-300 rounded-t-4xl">
             <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
                 <div class="bg-white p-6 rounded-lg shadow text-center">
                     <h3 class=" text-6xl font-semibold mb-4 text-blue-600">50k+</h3>

@@ -30,6 +30,17 @@ class StatSeeder extends Seeder
                 'title' => 'Funds Raised',
                 'description' => '$1M+',
             ],
+
+            [
+                'title' => 'Lives Impacted',
+                'description' => '10,000+',
+            ],
+
+            [
+                'title' => 'Countries Reached',
+                'description' => '15+',
+            ]
+
         ];
 
         foreach ($stats as $stat) {

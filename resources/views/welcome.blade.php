@@ -23,7 +23,7 @@
         
 
 
-      <x-stats :stats="$stats" />
+      <x-stats1 />
 
       <x-whywe/>
 

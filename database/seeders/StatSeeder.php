@@ -36,10 +36,6 @@ class StatSeeder extends Seeder
                 'description' => '10,000+',
             ],
 
-            [
-                'title' => 'Countries Reached',
-                'description' => '15+',
-            ]
 
         ];
 

@@ -13,7 +13,7 @@ class WelcomeController extends Controller
     public function __invoke(Request $request)
     {
         //
-        $stats = Stat::all();
-        return view('welcome', compact('stats'));
+      
+        return view('welcome');
     }
 }
